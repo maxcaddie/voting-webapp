@@ -1,0 +1,19 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Front-end for senate voting app",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxcaddie/voting-webapp.git"
+  },
+  "author": "mcaddie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxcaddie/voting-webapp/issues"
+  },
+  "homepage": "https://github.com/maxcaddie/voting-webapp#readme"
+}
