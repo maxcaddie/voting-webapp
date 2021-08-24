@@ -11,6 +11,7 @@ def max():
     if func is None:
         raise RuntimeError('Not running with the Werkzeug Server')
     func()
+    return "Sever not ok"
 
 if __name__ == "__main__":
   app.run()
